@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core.iml" filepath="$PROJECT_DIR$/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dio-serverless-barbershop/dio-serverless-barbershop.iml" filepath="$PROJECT_DIR$/../dio-serverless-barbershop/dio-serverless-barbershop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dio-serverless-repository/repository.iml" filepath="$PROJECT_DIR$/../dio-serverless-repository/repository.iml" />
+    </modules>
+  </component>
+</project>

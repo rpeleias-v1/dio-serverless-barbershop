@@ -1,0 +1,6 @@
+target/*
+*.idea/*
+*.iml*
+core/**/target/*
+dio-serverless-repository/**/target/*
+dio-serverless-barbershop/**/target/*
